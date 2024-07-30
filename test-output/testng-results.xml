@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-27T15:49:32 IST" name="Default suite" finished-at="2024-05-27T15:50:01 IST" duration-ms="28229">
+    <groups>
+    </groups>
+    <test started-at="2024-05-27T15:49:32 IST" name="Default test" finished-at="2024-05-27T15:50:01 IST" duration-ms="28229">
+      <class name="com.adactin.Adactin">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.adactin.Adactin@13e344d]" started-at="2024-05-27T15:49:32 IST" name="browserLaunch" finished-at="2024-05-27T15:49:34 IST" duration-ms="1540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.adactin.Adactin@13e344d]" started-at="2024-05-27T15:49:34 IST" name="getURL" finished-at="2024-05-27T15:49:37 IST" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.adactin.Adactin@13e344d]" started-at="2024-05-27T15:49:37 IST" name="login" finished-at="2024-05-27T15:49:38 IST" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchAndBookHotel()[pri:0, instance:com.adactin.Adactin@13e344d]" started-at="2024-05-27T15:49:38 IST" name="searchAndBookHotel" finished-at="2024-05-27T15:49:59 IST" duration-ms="21499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndBookHotel -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.adactin.Adactin@13e344d]" started-at="2024-05-27T15:49:59 IST" name="browserClose" finished-at="2024-05-27T15:50:01 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.adactin.Adactin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
